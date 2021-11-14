@@ -5,11 +5,12 @@ int main(int argc, char *argv[ ])
 {
 QApplication app(argc, argv);
  
-QPushButton button("Hello, World!");
+QPushButton button("Hello, NEW World!");
 button.resize(200, 60);
 button.show( );
  
 return app.exec( );
 }
 
+new
 new
