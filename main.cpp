@@ -11,3 +11,5 @@ button.show( );
  
 return app.exec( );
 }
+
+new
